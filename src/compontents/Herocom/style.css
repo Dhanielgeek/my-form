@@ -1,0 +1,99 @@
+.main_hero{
+    width: 100%;
+    height: 400px;
+    /* background-color: pink; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero_hold{
+    width: 80%;
+    height: 100%;
+    background: #fff1eb;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+}
+.first_hold{
+width: 55%;
+height: 90%;
+/* background-color: blue; */
+display: flex;
+flex-direction: column;
+
+}
+.Second_hold{
+    width: 35%;
+    height: 90%;
+    /* background-color: yellow; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.circlecon{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: white;
+}
+.circlecon img{
+width: 100%;
+height: 100%;
+object-fit: contain;
+}
+.title_con{
+    width: 450px;
+    height: auto;
+    /* background-color: red; */
+    margin-top: 70px;
+    line-height: 50px;
+}
+.title_con h1{
+    font-size: 40px;
+}
+.first_hold p{
+    margin-top: 20px;
+}
+.button_con{
+    width: 300px;
+    height: 50px;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.order{
+width: 120px;
+height: 80%;
+border-radius: 14px;
+background-color: #FF8A47;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+font-weight: 600;
+font-size: 17px;
+cursor: pointer;
+transition: all 0.5s ease-in;
+}
+.order :hover{
+    transform: scale(1);
+    background-color: red;
+}
+.watch{
+ width: 120px;
+height: 80%;
+border-radius: 14px;
+background-color: #dccbbf;
+display: flex;
+justify-content: center;
+align-items: center;
+color: #FF8A47;
+font-weight: 600;
+font-size: 17px;
+cursor: pointer;
+text-align: center;
+}

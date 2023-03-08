@@ -1,0 +1,38 @@
+[
+    {
+      "id" : 1,
+      "icon" : "",
+      "text" : "Voice Assistant",
+      "link" : "Read More"
+    },
+    {
+      "id" : 2,
+      "icon" : "",
+      "text" : "Install Andriod App",
+      "link": "Read More"
+    },
+    {
+      "id" : 3,
+      "icon" : "",
+      "text" : "Call and SMS Alert",
+      "link": "Read More"
+    },
+    {
+      "id" : 4,
+      "icon" : "",
+      "text" : "Interactive Design",
+      "link": "Read More"
+    },
+    {
+      "id" : 5,
+      "icon" : "",
+      "text" : "Wireless Freedom",
+      "link": "Read More"
+    },
+    {
+      "id" : 6,
+      "icon" : "",
+      "text" : "Noise Cancelling",
+      "link": "Read More"
+    }
+  ]
